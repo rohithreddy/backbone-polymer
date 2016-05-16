@@ -1,1 +1,1 @@
-### Trying Backbone.js + polymer.js + require.js
+### Trying Backbone.js with webcomponents polymer.js + require.js
