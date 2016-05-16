@@ -1,0 +1,25 @@
+{
+  "name": "comproute",
+  "description": "webcomponents + backbone",
+  "main": "",
+  "authors": [
+    "badc"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/rohithreddy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.10",
+    "backbone": "jashkenas/backbone#^1.3.3",
+    "requirejs": "requirejs/requirejs#^2.2.0",
+    "neon-elements": "^1.0.0",
+    "paper-elements": "^1.0.7"
+  }
+}
