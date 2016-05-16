@@ -20,6 +20,11 @@
     "backbone": "jashkenas/backbone#^1.3.3",
     "requirejs": "requirejs/requirejs#^2.2.0",
     "neon-elements": "^1.0.0",
-    "paper-elements": "^1.0.7"
+    "paper-elements": "^1.0.7",
+    "d3": "^3.5.17",
+    "dcjs": "dc.js#^1.7.5",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "typeahead.js": "^0.11.1"
   }
 }
